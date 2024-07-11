@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "C:\\Users\\yas\\Desktop\\mingw32\\bin",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "",
+            "cStandard": "${default}",
+            "cppStandard": "${default}",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
